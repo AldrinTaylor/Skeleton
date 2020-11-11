@@ -1,6 +1,6 @@
 import unittest;
 
-from bin import main;
+from skeleton import main;
 
 class TestCase(unittest.TestCase):
 
